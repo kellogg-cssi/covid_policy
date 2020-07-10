@@ -81,8 +81,8 @@
   "pages": {
     "index.html": {
       "settings": {
-        "title": "Scientists in COVID-19",
-        "meta_descr": "Unequal Effects of the COVID-19 Pandemic on Scientists",
+        "title": "Global COVID policy",
+        "meta_descr": "Quantifying Policy Responses to a Global Emergency: Insights from the COVID-19 Pandemic",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
